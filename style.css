@@ -1,0 +1,295 @@
+* {
+
+    margin: 0;
+}
+
+.navegador img {
+    width: 125px;
+    margin-left: 4%;
+
+    background-size: center;
+
+
+}
+
+.menu {
+    text-align: center;
+    width: 680px;
+
+    position: relative;
+    left: 320px;
+    top: -70px;
+
+}
+
+
+
+.menu a {
+    padding: 12px 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu a:hover {
+    border-bottom: 2px solid white;
+}
+
+.social {
+    display: flex;
+    position: relative;
+    top: -11%;
+    left: 180%;
+
+    width: 150px;
+    height: 50px;
+
+
+}
+.social img:hover{
+    scale: 1.5;
+}
+
+.social img {
+
+    width: 30px;
+    border-radius: none;
+    padding: 10px;
+    width: 20px;
+    
+    
+    ;
+}
+
+   
+
+
+.capa h1 {
+    color: white;
+
+    margin-top: 120px;
+    font-size: 55px;
+    font-family: "Ubuntu", serif;
+    padding: 15px 5px;
+}
+
+.capa p {
+    color: white;
+
+
+    font-size: 20px;
+    font-family: "Ubuntu", serif;
+    padding: 10px;
+
+}
+
+.capa strong {
+    font-size: 20px;
+
+}
+
+.capa {
+
+    height: 800px;
+
+
+    position: relative;
+    margin-left: -40%;
+    overflow: hidden;
+    margin-top: 10%;
+
+
+
+}
+
+.capa img {
+    border-radius: 10px;
+    margin-top: 1%;
+
+
+    width: 50%;
+}
+
+.sub {
+
+
+    position: relative;
+    margin-left: 4%;
+    margin-top: 20px;
+
+}
+
+.sub h1 {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+
+}
+
+.sub p {
+    text-align: center;
+    margin-left: 22%;
+    margin-top: px;
+    width: 800px;
+
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cards {
+    margin-top: 50px;
+    height: 400px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card1 {
+
+    height: 350px;
+
+}
+
+
+
+.text {
+    box-shadow: 1px 0.7px 2px 0.7px black;
+
+    width: 50%;
+    background: green;
+    border-radius: 10px;
+    margin-left: 25%;
+
+}
+
+.text p {
+    color: white;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: center;
+}
+
+.cards p {}
+
+
+.card2 {
+
+    height: 350px;
+
+}
+
+.card3 {
+
+    height: 350px;
+
+}
+
+.card4 {
+
+    height: 350px;
+
+}
+
+.cards img {
+    margin-top: 30px;
+    box-shadow: 1px 0.7px 5px 2px black;
+    border-radius: 10px;
+    width: 100%;
+    height: 90%;
+}
+
+.texto {
+    margin-left: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 750px;
+    margin-top: 200px;
+
+}
+
+.formulario {
+    margin-left: 5%;
+    margin-top: 20px;
+
+
+
+}
+
+.sobre {
+    margin-top: 100px;
+    margin-left: 2%;
+}
+
+.sobre p {
+    width: 800px
+}
+
+.sobre h1 {
+    border-bottom: 3px solid black;
+}
+
+.dados {
+    position: relative;
+    left: 800px;
+    top: -330px;
+
+}
+
+.wtt {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+
+}
+
+.wtt img {
+    width: 80px;
+}
+
+.fundo {
+    box-shadow: 1px 0.7px 2px 2px black;
+    background-image: url(img/fundo.png);
+    background-position: left;
+    display: flex;
+}
+
+.social-2 {
+    display: flex;
+    position: relative;
+    top: -50%;
+    left: 180%;
+
+    width: 150px;
+    height: 50px;
+
+
+}
+
+.social-2 img {
+
+    width: 30px;
+    border-radius: none;
+    padding: 10px;
+    width: 20px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    ;
+}
+
+.social-2 img :hover {
+    border-bottom: 2px solid white;
+}
+
+.locação {}
+
+.locação h1 {
+    font-size: 260%;
+    text-align: center;
+    margin-left: -50px;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
